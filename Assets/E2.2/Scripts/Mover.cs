@@ -6,7 +6,6 @@ using UnityEngine;
  * @author: Miao Lu
  * @version: 1.0
  * @title: nature of code, chapter 2, exercise 2.2
- * 
  * @descrip: The given exercise is about replacing a Processing language method with another method, which
  *           is not proper to be complete in C#. So the task of this exercise in C# should be implementation.
  */
